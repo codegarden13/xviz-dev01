@@ -1,0 +1,6 @@
+create-block-theme
+all-in-one-wp-migration
+regenerate-thumbnails-advanced
+advanced-database-cleaner
+force-regenerate-thumbnails
+catch-ids

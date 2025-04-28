@@ -1,0 +1,4 @@
+[
+    { "title": "prd", "WP_PORT": "8081", "mpath": "500G" },
+    { "title": "stg", "WP_PORT": "8082", "mpath": "1T" }
+]
